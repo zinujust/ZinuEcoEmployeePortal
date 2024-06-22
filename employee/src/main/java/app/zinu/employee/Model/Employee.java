@@ -1,7 +1,6 @@
 package app.zinu.employee.Model;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 import jakarta.persistence.Entity;
 import lombok.AllArgsConstructor;
